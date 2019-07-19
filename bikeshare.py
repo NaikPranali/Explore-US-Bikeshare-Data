@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  6 08:19:40 2018
 
-@author: praddyumna naik
+@author: pranali naik
 """
 
 # import all required packages 
