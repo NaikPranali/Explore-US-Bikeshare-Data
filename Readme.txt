@@ -1,6 +1,5 @@
-Project  Overview:
 
-In this Bikeshare project, I have written a Python Script to explore the data of three cities in USA. 
+In this project, I have written a Python Script to explore the data of three cities in USA. 
 And I have calculated descriptive statistics data  with the help of user interface.
 
 
