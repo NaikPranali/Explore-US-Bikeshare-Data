@@ -16,7 +16,7 @@ Randomly selected data for the first six months of 2017 are provided for all thr
          Trip Duration (in seconds - e.g., 776)
          Start Station (e.g., Broadway & Barry Ave)
          End Station (e.g., Sedgwick St & North Ave)
-         User Type (Subscriber or Customer)
+         User Type (Subscriber/Customer)
 
         The Chicago and New York City files also have the following two columns:
         Gender
