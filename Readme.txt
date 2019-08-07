@@ -26,8 +26,8 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 Statistics Computed:
 
 Popular times of travel (i.e., occurs most often in the start time)
-           most common mont
-           most common day of week\
+           most common month
+           most common day of week
            most common hour of day
  
 Popular stations and trip:
